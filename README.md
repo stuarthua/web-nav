@@ -1,12 +1,24 @@
 # Web Navigation
 
-> For Synology Web Navigation
+> Web Navigation for Home Lab. Purely, except typecho and webstack, nothing else more
 
-* pure
-* nothing else except web nav page
-* use typecho master version 2020-3-20
-* use typecho theme webstack seogo 2019-12-01
-* use typecho theme WebStack_ZMKI 2.29
+* Use typecho master version 2020-3-20
+* Modify typecho theme webstack seogo 2019-12-01
+* Modify typecho theme WebStack_ZMKI 2.29
+
+Preview:
+
+![Snipaste_2020-03-30_22-17-04](https://raw.githubusercontent.com/stuarthua/PicGo/master/tmp/Snipaste_2020-03-30_22-17-04.png)
+
+## Install
+
+![Snipaste_2020-03-30_22-06-10](https://raw.githubusercontent.com/stuarthua/PicGo/master/tmp/Snipaste_2020-03-30_22-06-10.png)
+
+![Snipaste_2020-03-30_22-10-12](https://raw.githubusercontent.com/stuarthua/PicGo/master/tmp/Snipaste_2020-03-30_22-10-12.png)
+
+![Snipaste_2020-03-30_22-11-06](https://raw.githubusercontent.com/stuarthua/PicGo/master/tmp/Snipaste_2020-03-30_22-11-06.png)
+
+![Snipaste_2020-03-30_22-16-44](https://raw.githubusercontent.com/stuarthua/PicGo/master/tmp/Snipaste_2020-03-30_22-16-44.png)
 
 ## Thanks
 
