@@ -35,5 +35,4 @@ config.rb
 /usr/plugins/
 !/usr/plugins/HelloWorld
 /usr/themes/
-!/usr/themes/default
 !/usr/themes/WebStack

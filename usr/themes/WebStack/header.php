@@ -20,7 +20,7 @@
   <link rel="stylesheet" href="<?php $this->options->themeUrl('css/xenon-components.css'); ?>">
   <link rel="stylesheet" href="<?php $this->options->themeUrl('css/xenon-skins.css'); ?>">
   <link rel="stylesheet" href="<?php $this->options->themeUrl('css/nav.css'); ?>">
-  <script src="<?php $this->options->themeUrl('js/jquery-2.0.0.min.js'); ?>"></script>
+  <script src="<?php $this->options->themeUrl('js/jquery-1.11.1.min.js'); ?>"></script>
   <!--[if lt IE 9]>
     <script src="//cdnjscn.b0.upaiyun.com/libs/html5shiv/r29/html5.min.js"></script>
     <script src="//cdnjscn.b0.upaiyun.com/libs/respond.js/1.3.0/respond.min.js"></script>

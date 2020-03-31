@@ -15,6 +15,8 @@
 </footer>
 </div>
 </div>
+
+<!-- 锚点平滑移动 -->
 <?php if ($this->is('index')) : ?>
     <script type="text/javascript">
         var href = "";
@@ -26,13 +28,15 @@
             $(this).parent("li").addClass("active");
             e.preventDefault();
             href = $(this).attr("href");
-            pos = $(href).position().top - 30;
+            hrefSelectorID = "[id='" + href.replace("#", "") + "']"
+            pos = $(hrefSelectorID).offset().top - 30;
             $("html,body").animate({
                 scrollTop: pos
             }, 500);
         });
     </script>
 <?php endif; ?>
+
 <script src="<?php $this->options->themeUrl('js/bootstrap.min.js'); ?>"></script>
 <script src="<?php $this->options->themeUrl('js/TweenMax.min.js'); ?>"></script>
 <script src="<?php $this->options->themeUrl('js/resizeable.js'); ?>"></script>
