@@ -5,6 +5,7 @@
 * Use typecho master version 2020-3-20
 * Modify typecho theme webstack seogo 2019-12-01
 * Modify typecho theme WebStack_ZMKI 2.29
+* add allsitepasswd plugin
 
 Preview:
 
@@ -25,3 +26,4 @@ Preview:
 * [WebStackPage](https://github.com/WebStackPage/WebStackPage.github.io)
 * [seogo](https://www.seogo.me/muban/webstack.html)
 * [WebStack_ZMKI](https://github.com/wclk/WebStack_ZMKI/)
+* [zmkkb/Typecho-AllsitePasswd](https://github.com/zmkkb/Typecho-AllsitePasswd)
